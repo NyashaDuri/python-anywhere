@@ -1,1 +1,1 @@
-# python-anywhere
+# vim: set ft=rst:
